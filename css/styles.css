@@ -3,11 +3,9 @@ body{
   font-weight: normal;
   font-size: 20px;
   background-image: url(http://www.joaoleitao.com/tattoo-name/files/female-names2/tattoo-design-name-harmony-13.png);
+  background-repeat: no-repeat;
 }
 h1{
   color: indigo;
   font-size: 25px;
-}
-img{
-  float: right;
 }
